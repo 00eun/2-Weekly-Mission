@@ -7,6 +7,6 @@
 
 input::placeholder {
   color: var(--Text, #666);
-  background: url(./Search.svg) no-repeat left;
+  background: url(../../../icon/Search.svg) no-repeat left;
   padding-left: 1.62rem;
 }
